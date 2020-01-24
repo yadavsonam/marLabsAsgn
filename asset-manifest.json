@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/marLabsAsgn/static/css/main.3cada107.chunk.css",
+    "main.js": "/marLabsAsgn/static/js/main.2e05137a.chunk.js",
+    "main.js.map": "/marLabsAsgn/static/js/main.2e05137a.chunk.js.map",
+    "runtime-main.js": "/marLabsAsgn/static/js/runtime-main.c2a81a83.js",
+    "runtime-main.js.map": "/marLabsAsgn/static/js/runtime-main.c2a81a83.js.map",
+    "static/js/2.4eac9d7b.chunk.js": "/marLabsAsgn/static/js/2.4eac9d7b.chunk.js",
+    "static/js/2.4eac9d7b.chunk.js.map": "/marLabsAsgn/static/js/2.4eac9d7b.chunk.js.map",
+    "index.html": "/marLabsAsgn/index.html",
+    "precache-manifest.8c4f84d3ddcc0242b3e25cb9468ff338.js": "/marLabsAsgn/precache-manifest.8c4f84d3ddcc0242b3e25cb9468ff338.js",
+    "service-worker.js": "/marLabsAsgn/service-worker.js",
+    "static/css/main.3cada107.chunk.css.map": "/marLabsAsgn/static/css/main.3cada107.chunk.css.map",
+    "static/js/2.4eac9d7b.chunk.js.LICENSE": "/marLabsAsgn/static/js/2.4eac9d7b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2a81a83.js",
+    "static/js/2.4eac9d7b.chunk.js",
+    "static/css/main.3cada107.chunk.css",
+    "static/js/main.2e05137a.chunk.js"
+  ]
+}
