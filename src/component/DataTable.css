@@ -1,0 +1,19 @@
+.StatusTooltip {
+    width: 100px;
+    height: 30px;
+}
+
+.headingRow {
+    text-align: left;
+    height: 50px;
+    text-decoration: underline
+}
+
+#td {
+    width: 25%;
+    text-align: left;
+}
+
+table {
+    width: 100%;
+}

@@ -1,0 +1,24 @@
+.RequestDiv {
+    margin: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.LabelDiv {
+    margin: 30px;
+    height: 60px;
+    background-color: #E8E8E8;
+    align-items: center;
+    padding-top: 30px;
+    width: 60%;
+}
+
+.dataDiv {
+    margin: 30px;
+    width: 60%;
+}
+
+#label {
+    margin: 30px;
+    font-size: 18px;
+}
